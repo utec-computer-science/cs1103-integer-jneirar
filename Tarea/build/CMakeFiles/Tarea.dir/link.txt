@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Tarea.dir/src/Integer.cpp.o CMakeFiles/Tarea.dir/src/main.cpp.o  -o Tarea 
