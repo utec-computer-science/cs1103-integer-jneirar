@@ -1,3 +1,3 @@
-/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/rebuild_cache.dir
-/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/Tarea.dir
-/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/edit_cache.dir
+/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/rebuild_cache.dir
+/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/Tarea.dir
+/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/edit_cache.dir

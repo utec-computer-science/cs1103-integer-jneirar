@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/Integer.cpp" "/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/Tarea.dir/src/Integer.cpp.o"
-  "/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/main.cpp" "/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/Tarea.dir/src/main.cpp.o"
+  "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/Integer.cpp" "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/Tarea.dir/src/Integer.cpp.o"
+  "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/main.cpp" "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/Tarea.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

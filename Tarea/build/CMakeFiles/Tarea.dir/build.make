@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea
+CMAKE_SOURCE_DIR = "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build
+CMAKE_BINARY_DIR = "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Tarea.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Tarea.dir/flags.make
 
 CMakeFiles/Tarea.dir/src/Integer.cpp.o: CMakeFiles/Tarea.dir/flags.make
 CMakeFiles/Tarea.dir/src/Integer.cpp.o: ../src/Integer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tarea.dir/src/Integer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tarea.dir/src/Integer.cpp.o -c /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/Integer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tarea.dir/src/Integer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tarea.dir/src/Integer.cpp.o -c "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/Integer.cpp"
 
 CMakeFiles/Tarea.dir/src/Integer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea.dir/src/Integer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/Integer.cpp > CMakeFiles/Tarea.dir/src/Integer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/Integer.cpp" > CMakeFiles/Tarea.dir/src/Integer.cpp.i
 
 CMakeFiles/Tarea.dir/src/Integer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea.dir/src/Integer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/Integer.cpp -o CMakeFiles/Tarea.dir/src/Integer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/Integer.cpp" -o CMakeFiles/Tarea.dir/src/Integer.cpp.s
 
 CMakeFiles/Tarea.dir/src/Integer.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/Tarea.dir/src/Integer.cpp.o.provides.build: CMakeFiles/Tarea.dir/src/
 
 CMakeFiles/Tarea.dir/src/main.cpp.o: CMakeFiles/Tarea.dir/flags.make
 CMakeFiles/Tarea.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea.dir/src/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tarea.dir/src/main.cpp.o -c /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea.dir/src/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tarea.dir/src/main.cpp.o -c "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/main.cpp"
 
 CMakeFiles/Tarea.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/main.cpp > CMakeFiles/Tarea.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/main.cpp" > CMakeFiles/Tarea.dir/src/main.cpp.i
 
 CMakeFiles/Tarea.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/main.cpp -o CMakeFiles/Tarea.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/src/main.cpp" -o CMakeFiles/Tarea.dir/src/main.cpp.s
 
 CMakeFiles/Tarea.dir/src/main.cpp.o.requires:
 
@@ -117,7 +117,7 @@ Tarea: CMakeFiles/Tarea.dir/src/Integer.cpp.o
 Tarea: CMakeFiles/Tarea.dir/src/main.cpp.o
 Tarea: CMakeFiles/Tarea.dir/build.make
 Tarea: CMakeFiles/Tarea.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Tarea"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Tarea"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Tarea.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -135,6 +135,6 @@ CMakeFiles/Tarea.dir/clean:
 .PHONY : CMakeFiles/Tarea.dir/clean
 
 CMakeFiles/Tarea.dir/depend:
-	cd /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/Tarea.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea" "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea" "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build" "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build" "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/Tarea.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Tarea.dir/depend
 

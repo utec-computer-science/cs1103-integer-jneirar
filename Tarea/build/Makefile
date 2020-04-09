@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea
+CMAKE_SOURCE_DIR = "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build
+CMAKE_BINARY_DIR = "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles" "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

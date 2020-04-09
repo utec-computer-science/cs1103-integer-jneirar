@@ -12,8 +12,8 @@ public:
     Integer operator=(const Integer& other);
     Integer operator+(int value);
     operator int();
-    friend std::ostream& operator <<(std::ostream& os, const Integer& other);
-    friend std::istream& operator >>(std::istream& os, Integer& other);
+    friend ostream& operator <<(ostream& os, const Integer& other);
+    friend istream& operator >>(istream& os, Integer& other);
     Integer operator^(int value);
 };
 

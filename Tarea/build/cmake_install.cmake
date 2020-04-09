@@ -1,4 +1,4 @@
-# Install script for directory: /home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea
+# Install script for directory: /home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jneira/UTEC/2020-1/POOII/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/jneira/UTEC/2020-1/POOII/Semana 01/S01-Tarea-Git/cs1103-integer-jneirar/Tarea/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
